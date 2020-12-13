@@ -4,7 +4,7 @@ Basic:
 ------------------------------------------------------------------------------------------
 modinfo hello:
 
-![lab5](/Users/vladkondrackij/Documents/UNIVERSITY/Каплунов/lab5/AK2-lab5/img/1.jpg)
+![lab5](img/1.jpg)
 
 Запуск модуля hello:
 
